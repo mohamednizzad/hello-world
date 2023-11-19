@@ -6,3 +6,6 @@ Edited by Nizzad
 
 This is an updated version of read-me file. 
 Edited by ruzni 
+
+hello sir its ruzni 
+its edited
